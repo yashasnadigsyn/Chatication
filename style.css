@@ -12,6 +12,7 @@ body {
 .tagline {
   position: absolute;
   top: 55%;
+  color: #fff;
 }
 
 .glitch {
